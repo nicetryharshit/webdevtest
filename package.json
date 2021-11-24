@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nicetryharshit/webdevtest/issues"
   },
-  "homepage": "https://github.com/nicetryharshit/webdevtest#readme"
+  "homepage": "https://github.com/nicetryharshit/webdevtest#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
