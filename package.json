@@ -1,0 +1,19 @@
+{
+  "name": "webdevtest",
+  "version": "1.0.0",
+  "description": "web dev test description",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicetryharshit/webdevtest.git"
+  },
+  "author": "nicetryharshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicetryharshit/webdevtest/issues"
+  },
+  "homepage": "https://github.com/nicetryharshit/webdevtest#readme"
+}
